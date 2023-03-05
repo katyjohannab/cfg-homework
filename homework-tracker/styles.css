@@ -1,0 +1,106 @@
+/*
+Colour Scheme:
+GREY
+
+MAIN COLOR
+#3bc9db;
+
+TINTS
+#e3fafc
+#c5f6fa
+#99e9f2
+#15aabf;
+#1098ad
+#0c8599
+#0b7285
+
+ACCENT COLOR
+#faa2c1
+TINTS
+#fff0f6
+#ffdeeb
+#fcc2d7#f783ac
+#f783ac
+#f06595
+
+GREY
+#343a40
+
+*/
+
+/*BUTTONS*/
+.btn-primary {
+  font-family: "Lato", sans-serif;
+  background-color: #3bc9db;
+  border: solid 2px #3bc9db;
+  color: white;
+}
+
+.btn-primary:hover {
+  font-family: "Lato", sans-serif;
+  background-color: #15aabf;
+  border: solid 2px #15aabf;
+}
+
+.btn-text {
+  font-family: "Lato", sans-serif;
+  background-color: #faa2c1;
+  border: solid 2px #faa2c1;
+  color: #343a40;
+}
+
+.btn-text:hover {
+  font-family: "Lato", sans-serif;
+  background-color: #f783ac;
+  border: solid 2px #f783ac;
+  color: #343a40;
+}
+
+/*SECTIONS*/
+
+/*NAVBAR*/
+.navbar-transparent {
+  background-color: transparent;
+}
+
+/*HEADER IMAGE*/
+.bgimage {
+  display: flex;
+  width: 100%;
+  height: 500px;
+  background: linear-gradient(to bottom, transparent, #272727),
+    url("./background-img.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  align-items: end;
+}
+.bgimage h1 {
+  color: white;
+  font-family: "Playfair display", Serif;
+  font-size: 80px;
+}
+
+/*FIRST ROW*/
+
+.firstrow {
+  display: flex;
+  margin-top: 8em;
+  color: #343a40;
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+}
+
+.textbox--1 {
+}
+
+.macarons {
+  width: 600px;
+}
+
+/*SECOND ROW*/
+
+.donuts {
+  width: 600px;
+}
