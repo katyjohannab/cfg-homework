@@ -28,6 +28,15 @@ GREY
 
 */
 
+* {
+  color: #343a40;
+}
+
+i {
+  color: white;
+  font-size: 20px;
+}
+
 /*BUTTONS*/
 .btn-primary {
   font-family: "Lato", sans-serif;
