@@ -1,4 +1,22 @@
 /*
+font-family: 'Abril Fatface', cursive;
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Inconsolata', monospace;
+font-family: 'Inter', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Karla', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Noto Serif Display', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Slabo 13px', serif;
+font-family: 'Slabo 27px', serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Ultra', serif;
+font-family: 'Urbanist', sans-serif;
+font-family: 'Yeseva One', cursive;
 Colour Scheme:
 GREY
 
@@ -25,31 +43,32 @@ GREY
 
 body {
   color: #495057;
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 /*BUTTONS*/
 .btn-primary {
-  font-family: "Lato", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   background-color: #3bc9db;
   border: solid 2px #3bc9db;
   color: white;
 }
 
 .btn-primary:hover {
-  font-family: "Lato", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   background-color: #099268;
   border: solid 2px #099268;
 }
 
 .btn-text {
-  font-family: "Lato", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   background-color: #099268;
   border: solid 2px #099268;
   color: #fff;
 }
 
 .btn-text:hover {
-  font-family: "Lato", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   background-color: #087f5b;
   border: solid 2px #087f5b;
   color: #fff;
@@ -88,6 +107,7 @@ body {
 .bgimage h1 {
   color: white;
   font-family: "Playfair display", Serif;
+  font-weight: 600;
   font-size: 80px;
 }
 
@@ -97,7 +117,7 @@ body {
   display: flex;
   margin-top: 8em;
   color: #343a40;
-  font-family: "Lato", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-size: 20px;
 }
 
