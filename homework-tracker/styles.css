@@ -74,6 +74,8 @@ h1:hover {
   background-color: #3bc9db;
   border: solid 2px #3bc9db;
   color: white;
+  padding: 10px;
+  letter-spacing: 0.1em;
 }
 
 .btn-primary:hover {
