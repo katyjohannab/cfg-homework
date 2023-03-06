@@ -97,6 +97,12 @@ h1:hover {
     rgba(0, 0, 0, 0.09) 0px 32px 16px;
 }
 
+.grey {
+  color: #343a40;
+  width: 15px;
+  height: 15px;
+}
+
 .btn-text:hover {
   font-family: "Lato", sans-serif;
   background-color: #f783ac;
